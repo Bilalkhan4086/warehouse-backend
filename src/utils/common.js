@@ -1,0 +1,5 @@
+export const UserRoles = {
+  ADMIN: 'ADMIN',
+  INVENTORY_MANAGER: 'INVENTORY_MANAGER',
+  ORDER_MANGER: 'ORDER_MANGER',
+};
